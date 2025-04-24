@@ -1,6 +1,6 @@
 ## Hi, I'm Irina Razumova 👋
 ### :woman_technologist: About Me :  I am a JAVA Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@IrinaVRazumova-blue?style=flat&logo=Telegram&logoColor=white)](https://web.telegram.org/a/#637726203)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@IrinaVRazumova-blue?style=flat&logo=Telegram&logoColor=white)](https://@IrinaVRazumova)
 ---
 
 ### :hammer_and_wrench: I know languages ​​and tools:
