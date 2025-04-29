@@ -15,8 +15,6 @@
 
 [Решение проблемы N+1](https://github.com/idvairaz/N_plus_1/blob/main/README.md)
 
-
-
 ![C](https://img.shields.io/badge/C-blue?style=flat&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=cplusplus&logoColor=white)
 
@@ -27,6 +25,8 @@
 #### Databases:
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+
+[SQL Bootcamp](https://github.com/idvairaz/School_21_educational_project_for_IT_specialists_from_SBER/blob/main/sql/README.md)
 
 ---
 
