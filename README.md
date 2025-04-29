@@ -1,14 +1,20 @@
-## Hi, I'm Irina Razumova 👋
-### :woman_technologist: About Me :  I am a JAVA Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@IrinaVRazumova-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/IrinaVRazumova)
+
+## Привет, меня зовут Ирина Разумова 👋
+### :woman_technologist: Я JAVA Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+:mailbox:Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-@IrinaVRazumova-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/IrinaVRazumova)
 ---
 
-### :hammer_and_wrench: I know languages ​​and tools:
+### :hammer_and_wrench: Вот что я умею:
 
-#### Programming languages:
+#### Языки программирования:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+
+[Тестовое задание для турфирмы](https://github.com/idvairaz/FromDmitry)
+
 ![C](https://img.shields.io/badge/C-blue?style=flat&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=cplusplus&logoColor=white)
+
+[Мои библиотеки, утилиты и игра "Тетрис"](https://github.com/idvairaz/School_21_educational_project_for_IT_specialists_from_SBER)
 
 ---
 
