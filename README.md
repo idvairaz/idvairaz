@@ -9,6 +9,10 @@
 #### Языки программирования:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 
+[Mодуль-заглушка(с использованием Kafka, Prometheus Grafana)для обработки REST-запросов](https://github.com/idvairaz/N_plus_1/blob/main/README.md)
+
+[CRUD-приложение (Spring Boot Spring Security MySQL)](https://github.com/idvairaz/ForSber)
+
 [Решение проблемы N+1](https://github.com/idvairaz/N_plus_1/blob/main/README.md)
 
 
