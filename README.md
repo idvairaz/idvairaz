@@ -9,7 +9,9 @@
 #### Языки программирования:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 
-[Тестовое задание для турфирмы](https://github.com/idvairaz/FromDmitry)
+[Решение проблемы N+1](https://github.com/idvairaz/N_plus_1/blob/main/README.md)
+
+
 
 ![C](https://img.shields.io/badge/C-blue?style=flat&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=cplusplus&logoColor=white)
