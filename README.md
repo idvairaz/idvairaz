@@ -32,7 +32,7 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white)
 
-[Mодуль-заглушка(с использованием Kafka, Prometheus Grafana)для обработки REST-запросов](https://github.com/idvairaz/N_plus_1/blob/main/README.md)
+[Mодуль-заглушка(с использованием Kafka, Prometheus Grafana)для обработки REST-запросов](https://github.com/idvairaz/QA/blob/main/kafka-nt/README_RUS.md)
 
 ---
 
