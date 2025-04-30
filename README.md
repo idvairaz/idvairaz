@@ -50,7 +50,7 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=flat&logo=sonarqube&logoColor=4E9BCD)
-![Jmetrer](https://img.shields.io/badge/Jmeter-black?style=flat&logo=apache&logoColor=4E9BCD)
+![Jmetrer](https://img.shields.io/badge/Jmeter-4479A1?style=flat&logo=apache&logoColor=%23ED8B00)
 
 [QA](https://github.com/idvairaz/QA/blob/main/WebTours/README_RUS.md)
 
