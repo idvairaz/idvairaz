@@ -13,6 +13,8 @@
 
 [Решение проблемы N+1](https://github.com/idvairaz/N_plus_1/blob/main/README.md)
 
+[Реализация микросервиса (docker-compose,app + PostgreSQL)](https://github.com/idvairaz/WebRise)
+
 ![C](https://img.shields.io/badge/C-blue?style=flat&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=cplusplus&logoColor=white)
 
