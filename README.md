@@ -23,7 +23,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Проект:** [SQL Bootcamp](https://github.com/idvairaz/School_21_educational_project_for_IT_specialists_from_SBER/blob/main/sql/README.md)
+**Каталог проектов:** [SQL Bootcamp](https://github.com/idvairaz/School_21_educational_project_for_IT_specialists_from_SBER/blob/main/sql/README.md)
 
 ### 🖇 Фреймворки и технологии
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -36,7 +36,7 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-**Проект:** [Настройка контейнеров, Интеграция CI/CD](https://github.com/idvairaz/School_21_educational_project_for_IT_specialists_from_SBER/tree/main/Linux)
+**Каталог проектов:** [Настройка контейнеров, Интеграция CI/CD](https://github.com/idvairaz/School_21_educational_project_for_IT_specialists_from_SBER/tree/main/Linux)
 
 ### 📊 Инструменты для работы с данными
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
@@ -45,7 +45,7 @@
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 
-**Проект:** [QA](https://github.com/idvairaz/QA/blob/main/WebTours/README_RUS.md)
+**Каталог проектов:** [QA](https://github.com/idvairaz/QA/blob/main/WebTours/README_RUS.md)
 
 ### 🔧 Инструменты разработки
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
