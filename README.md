@@ -19,6 +19,8 @@
 - [Микросервис (Docker Compose + PostgreSQL)](https://github.com/idvairaz/WebRise)
 - [Библиотеки, утилиты и игра "Тетрис"](https://github.com/idvairaz/School_21_educational_project_for_IT_specialists_from_SBER)
 
+**Каталог проектов:** [Data Science Bootcamp](https://github.com/idvairaz/School_21_educational_project_for_IT_specialists_from_SBER/blob/main/Data_Science/README.md)
+
 ### 🗃 Базы данных
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
