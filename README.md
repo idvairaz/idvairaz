@@ -47,7 +47,7 @@
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 
-**Каталог проектов:** [QA](https://github.com/idvairaz/QA/blob/main/WebTours/README_RUS.md)
+**Каталог проектов:** [QA1](https://github.com/idvairaz/Vtb_test_task)  [QA2](https://github.com/idvairaz/QA/blob/main/WebTours/README_RUS.md)
 
 ### 🔧 Инструменты разработки
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
