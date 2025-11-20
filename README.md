@@ -18,7 +18,6 @@
 - [Решение проблемы N+1](https://github.com/idvairaz/N_plus_1/blob/main/README.md)
 - [Микросервис (Docker Compose + PostgreSQL)](https://github.com/idvairaz/WebRise)
 - [Библиотеки, утилиты и игра "Тетрис" C/C++](https://github.com/idvairaz/School_21_educational_project_for_IT_specialists_from_SBER)
-- [Микросервис (Docker Compose + PostgreSQL)](https://github.com/idvairaz/WebRise)
 - [Fabric mod Minecraft](https://github.com/idvairaz/Minecraft)
 
 **Каталог проектов:** [Data Science Bootcamp](https://github.com/idvairaz/School_21_educational_project_for_IT_specialists_from_SBER/blob/main/Data_Science/README.md)
